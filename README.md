@@ -2,28 +2,24 @@
 
 ### About Me
 
-<!-- Replace the placeholder text below with a short bio about yourself -->
-
-- 😄 Pronouns: <!-- e.g. he/him, she/her, they/them -->
-- 🌍 Based in: <!-- e.g. San Francisco, CA -->
-- 💼 Currently working as: <!-- e.g. Software Engineer at Acme Corp -->
-- ⚡ Fun fact: <!-- something interesting about you -->
+- 🌍 Based in: American living in Tokyo
+- 💼 Currently working as: Freelancer
 
 ---
 
 ### 🔭 What I'm Working On
 
-<!-- Describe what you're currently building or focused on -->
-
-- 🚀 **Personal Project:** [<!-- Project Name -->](<!-- https://your-deployed-project-url.com -->) — <!-- One-sentence description of the project -->
+- 🚀 **Personal Project:** [https://belief-forum.vercel.app/](https://belief-forum.vercel.app/) — Auto-moderated forum with belief trees (WIP)
+  - Supabase backend with RLS
 
 ---
 
 ### 🌱 What I'm Learning
 
-<!-- List technologies, concepts, or skills you're currently studying -->
-
-- <!-- e.g. Rust, GraphQL, Machine Learning, etc. -->
+- Supabase
+- n8n
+- graphiti
+- ML fine-tuning
 
 ---
 
@@ -31,25 +27,15 @@
 
 <!-- List the languages, frameworks, and tools you work with -->
 
-- **Languages:** <!-- e.g. JavaScript, Python, Go -->
-- **Frameworks:** <!-- e.g. React, Node.js, Django -->
-- **Tools & Platforms:** <!-- e.g. Docker, AWS, Git -->
+- **Languages:** Typescript
+- **Frameworks:** React, Next.js
+- **Tools & Platforms:** Git, Docker, n8n, Supabase, Vercel
 
 ---
 
 ### 👯 Looking to Collaborate On
 
-<!-- Describe the kinds of projects or areas where you'd welcome collaboration -->
-
-- <!-- e.g. Open-source developer tools, data visualization projects -->
-
----
-
-### 💬 Ask Me About
-
-<!-- Topics you enjoy discussing or where you can offer help -->
-
-- <!-- e.g. web performance, API design, career advice for new devs -->
+- Project for improving online debate
 
 ---
 
@@ -57,7 +43,5 @@
 
 <!-- Add your preferred contact methods or social profiles -->
 
-- Email: <!-- your@email.com -->
-- LinkedIn: <!-- https://linkedin.com/in/your-profile -->
-- Twitter/X: <!-- https://twitter.com/your-handle -->
-- Portfolio: <!-- https://your-portfolio-site.com -->
+- LinkedIn: [https://www.linkedin.com/in/dustin-dehaven/](https://www.linkedin.com/in/dustin-dehaven/)
+- Portfolio: [https://belief-forum.vercel.app/](https://belief-forum.vercel.app/)
