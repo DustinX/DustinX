@@ -1,47 +1,38 @@
 ## Hi there, I'm Dustin 👋
 
-### About Me
-
-- 🌍 Based in: American living in Tokyo
-- 💼 Currently working as: Freelancer
-
----
-
 ### 🔭 What I'm Working On
 
-- 🚀 **Personal Project:** [https://belief-forum.vercel.app/](https://belief-forum.vercel.app/) — Auto-moderated forum with belief trees (WIP)
+- 🫟 [Belief Forum](https://belief-forum.vercel.app/) — Auto-moderated forum with Belief Trees
   - Supabase backend with RLS
+  
+- 📈 [Habit Tracker](https://routine-tracker-pied.vercel.app/) — Daily Habit Tracker
+
 
 ---
 
 ### 🌱 What I'm Learning
 
-- Supabase
-- n8n
-- graphiti
 - ML fine-tuning
+- Neo4j
 
 ---
 
 ### 🛠️ Skills & Tech Stack
 
-<!-- List the languages, frameworks, and tools you work with -->
-
-- **Languages:** Typescript
-- **Frameworks:** React, Next.js
-- **Tools & Platforms:** Git, Docker, n8n, Supabase, Vercel
+* **Frontend:** TypeScript, React, Next.js, JavaScript, HTML, CSS, Tailwind, MUI, shadcn/ui, Apollo, responsive design
+* **Backend / Full-stack:** Node.js, Express, GraphQL, Hasura, Supabase, SQL, NoSQL, REST APIs, server-sent events
+* **AI / LLMs:** OpenAI API, Vercel AI SDK, LLM tool calling, structured JSON output, prompt engineering, LLM application prototyping
+* **Infrastructure / Tools:** Vercel, Docker, AWS, CloudFront, CI/CD, GitHub, Git, Bitbucket, Sentry, Jest, Figma, Electron, PowerShell, CMS integration
+* **Exposure:** Python, Neo4j, Hugging Face AutoTrain, AWS SageMaker
 
 ---
 
 ### 👯 Looking to Collaborate On
 
-- Project for improving online debate
+- Improving online debate
 
 ---
 
 ### 📫 How to Reach Me
 
-<!-- Add your preferred contact methods or social profiles -->
-
-- LinkedIn: [https://www.linkedin.com/in/dustin-dehaven/](https://www.linkedin.com/in/dustin-dehaven/)
-- Portfolio: [https://belief-forum.vercel.app/](https://belief-forum.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/dustin-dehaven/)
